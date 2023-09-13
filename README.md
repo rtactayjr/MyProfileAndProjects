@@ -24,7 +24,7 @@ Feel free to explore my website to learn more about me and my work.
 
 ## Getting Started
 
-1. Clone this repository to your local machine: git clone https://github.com/yourusername/your-repo.git
+1. Clone this repository to your local machine: git clone [https://github.com/yourusername/your-repo.git](https://github.com/rtactayjr/MyProfileAndProjects.git)
 2. Open the `index.html` file in your web browser to view the website.
 
 ## Contact
